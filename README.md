@@ -46,23 +46,6 @@ All data is securely stored using text files:
 - C++ Compiler (GCC / Clang / MSVC)
 - OS: Windows, Linux, or macOS (Tested on Windows using g++)
 
-### Compilation & Execution
-```sh
-# Clone the repository
-git clone https://github.com/yourusername/VITGo-Booking-System.git
-cd VITGo-Booking-System
-
-# Compile the source code
-g++ main.cpp -o VITGo
-
-# Run the application
-./VITGo      # On Windows: VITGo.exe
-```
-
-### 🛡 Default Admin Credentials
-- **Email**: `admin@vitgo.com`
-- **Password**: `admin123`
-
 ## 👤 Usage Guide
 
 ### ➤ For Users:
