@@ -65,10 +65,10 @@ All data is securely stored using text files:
 
 | Member | Role | Responsibilities |
 |--------|------|------------------|
-| SUSMIT ROY | **Project Admin & Backend Developer** | Core logic, file handling, system integration |
-| SHARANYA SINGHA ROY | **Transport System Specialist** | Transport class logic, seat management, pricing |
-| UNNATI SHARMA | **UI/UX Developer** | Menu flows, input validation, output formatting |
-| SRIJAN ROY | **Testing & Documentation Lead** | Testing, documentation, bug tracking, user guides |
+| SUSMIT ROY(24MIM10037) | **Project Admin & Backend Developer** | Core logic, file handling, system integration |
+| SHARANYA SINGHA ROY(24BAI10675) | **Transport System Specialist** | Transport class logic, seat management, pricing |
+| UNNATI SHARMA(24BCE11097) | **UI/UX Developer** | Menu flows, input validation, output formatting |
+| SRIJAN ROY(24BAI10502) | **Testing & Documentation Lead** | Testing, documentation, bug tracking, user guides |
 
 ## 🚧 Planned Future Enhancements
 - 🔹 Graphical User Interface (GUI) using **Qt** or **SFML**
